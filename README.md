@@ -1,4 +1,4 @@
-<img src=""/>
+<img src="https://github.com/bishalacharya05/bishalacharya05/blob/main/Black%20and%20%20White%20Gradient%20Personal%20LinkedIn%20Banner.png"/>
 
 <h1 align="center">Hi 👋, I'm Bishal Acharya</h1>
 <h3 align="center">A passionate software developer from Nepal</h3>
